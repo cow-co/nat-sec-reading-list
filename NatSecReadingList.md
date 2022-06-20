@@ -4,7 +4,11 @@
 
 ## Strategy
 
+- https://warontherocks.com/
+  - A great website with articles from experts across national security topics. 
+
 ## Foreign Policy
+
 
 ## Intelligence
 
@@ -19,6 +23,12 @@
 - Mendez and Mendez, *The Moscow Rules*
   - A thrilling read about some of the inventive ways in which the CIA outfoxed the KGB on the streets of Moscow
   - And some lessons-learned from the CIA's failures, too.
+- https://warontherocks.com/
+  - A great website with articles from experts across national security topics. 
+- Mattis and Brazil, *Chinese Communist Espionage* (Naval Institute Press)
+  - An excellent small form-factor overview of PRC intelligence
+  - Covers some of the history
+  - Covers the key people, organisations, and (publicly-acknowledged) operations
 
 ## China
 
@@ -28,6 +38,10 @@
 - Wood, *The Story of China*
   - A fine single-volume history of China
   - Excellent as a source of cultural context
+- Mattis and Brazil, *Chinese Communist Espionage* (Naval Institute Press)
+  - An excellent small form-factor overview of PRC intelligence
+  - Covers some of the history
+  - Covers the key people, organisations, and (publicly-acknowledged) operations
 - 
 
 ## Russia
